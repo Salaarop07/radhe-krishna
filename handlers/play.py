@@ -178,7 +178,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/Queen_op_mahi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/loggervi"),
+                            url=f"https://t.me/felling_queen_heartII"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -222,7 +222,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/Queen_op_mahi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/loggervi"),
+                            url=f"https://t.me/felling_queen_heartII"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -243,7 +243,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/Queen_op_mahi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/loggervi"),
+                            url=f"https://t.me/felling_queen_heartII"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -302,7 +302,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/Queen_op_mahi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/loggervi"),
+                            url=f"https://t.me/felling_queen_heartII"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
