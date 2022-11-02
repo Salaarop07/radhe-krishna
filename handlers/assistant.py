@@ -10,7 +10,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from helpers.decorators import authorized_users_only
 from callsmusic.callsmusic import client as user
 
-STR_ID = "CAACAgIAAx0CW9EqKAACEoZiT-Pqtg1RKtr06xxZWMwSAhye2AACghsAAiKAeEqwv4PkzvkmQiME"
+STR_ID = "https://te.legra.ph/file/39319bd37134f495f4849.jpg"
 
 @Client.on_message(
     command("joinub") & ~filters.bot
