@@ -38,8 +38,8 @@ def callback_query(Client, callback: CallbackQuery):
             t2.format(callback.from_user.mention, SUPPORT_GROUP),
             reply_markup=InlineKeyboardMarkup(button2)
         )
-    elif callback.data == "repo_k":
-        callback.answer('Source Code Of DevuMusic By @ShiningOff', show_alert=True)                
+    elif callback.data == "Hm_apke_hai_kaun":
+        callback.answer('tumse na ho payega', show_alert=True)                
         callback.edit_message_text(
             t5.format(callback.from_user.mention, BOT_NAME),
             reply_markup=InlineKeyboardMarkup(button3)
