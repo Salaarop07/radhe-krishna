@@ -175,10 +175,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/Queen_op_mahi"),
+                            url=f"https://t.me/optimus_prime41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/felling_queen_heartII"),
+                            url=f"https://t.me/FriendsForever_xDD"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -219,10 +219,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/Queen_op_mahi"),
+                            url=f"https://t.me/optimus_prime41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/felling_queen_heartII"),
+                            url=f"https://t.me/FriendsForever_xDD"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -240,10 +240,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/Queen_op_mahi"),
+                            url=f"https://t.me/optimus_prime41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/felling_queen_heartII"),
+                            url=f"https://t.me/FriendsForever_xDD"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -299,10 +299,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/Queen_op_mahi"),
+                            url=f"https://t.me/optimus_prime41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/felling_queen_heartII"),
+                            url=f"https://t.me/FriendsForever_xDD"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
