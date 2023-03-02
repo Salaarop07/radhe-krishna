@@ -32,7 +32,7 @@ button2 = [
 
 button3 = [
     [
-        InlineKeyboardButton(text="Source", url="https://github.com/ja so ja beta vrna gabbar aa jayega"),
+        InlineKeyboardButton(text="Source", url="https://github.com/bsdk/laudenikal"),
         InlineKeyboardButton(text="Back", callback_data="HOME"),
     ],
 ]
