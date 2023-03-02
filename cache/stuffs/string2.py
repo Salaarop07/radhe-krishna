@@ -9,7 +9,7 @@ button1 = [
     ],
     [
         InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="Source✨", callback_data= "https://github.com/bsdk/laudenikal"),
+        InlineKeyboardButton(text="Source✨", callback_data= "Source code"),
     ],                
     [                    
         InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
