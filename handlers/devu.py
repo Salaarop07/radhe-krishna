@@ -38,8 +38,8 @@ def callback_query(Client, callback: CallbackQuery):
             t2.format(callback.from_user.mention, SUPPORT_GROUP),
             reply_markup=InlineKeyboardMarkup(button2)
         )
-    elif callback.data == "menu":
-        callback.answer('FriendsForever_xDD', show_alert=True)                
+    elif callback.data == "Source code":
+        callback.answer('FriendsForever_xDD, show_alert=True)                
         callback.edit_message_text(
             t5.format(callback.from_user.mention, BOT_NAME),
             reply_markup=InlineKeyboardMarkup(button3)
