@@ -4,12 +4,12 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 button1 = [
     [
-        InlineKeyboardButton(text="Updates", url=f"https://t.me/felling_queen_heartII"),
+        InlineKeyboardButton(text="Updates", url=f"https://t.me/FriendsForever_xDD"),
         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="Source✨", callback_data= "repo_k"),
+        InlineKeyboardButton(text="Source✨", callback_data= "https://github.com/bsdk/laudenikal"),
     ],                
     [                    
         InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
