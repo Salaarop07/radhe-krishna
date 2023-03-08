@@ -174,8 +174,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/optimus_prime41"),
+                            text="ᴏᴡɴᴇʀ🥀",
+                            url=f"https://t.me/OWNER_USERNAME"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -218,8 +218,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/optimus_prime41"),
+                            text="ᴏᴡɴᴇʀ🥀",
+                            url=f"https://t.me/OWNER_USERNAME"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -239,8 +239,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/optimus_prime41"),
+                            text="ᴏᴡɴᴇʀ🥀",
+                            url=f"https://t.me/OWNER_USERNAME"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -298,8 +298,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="sᴛʏʟɪsʜ ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/optimus_prime41"),
+                            text="ᴏᴡɴᴇʀ🥀",
+                            url=f"https://t.me/OWNER_USERNAME"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
