@@ -175,7 +175,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/OWNER_USERNAME"),
+                            url=f"https://t.me/Optimus_prime_41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -219,7 +219,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/OWNER_USERNAME"),
+                            url=f"https://t.me/Optimus_prime_41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -240,7 +240,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/OWNER_USERNAME"),
+                            url=f"https://t.me/Optimus_prime_41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
@@ -299,7 +299,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴏᴡɴᴇʀ🥀",
-                            url=f"https://t.me/OWNER_USERNAME"),
+                            url=f"https://t.me/Optimus_prime_41"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/FriendsForever_xDD"),
