@@ -4,7 +4,7 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 button1 = [
     [
-        InlineKeyboardButton(text="Updates", url=f"https://t.me/apne_dubiya"),
+        InlineKeyboardButton(text="Updates", url=f"https://t.me/apne_duniya"),
         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
@@ -32,7 +32,7 @@ button2 = [
 
 button3 = [
     [
-        InlineKeyboardButton(text="Source", url="https://github.com/bsdk/laudenikal"),
+        InlineKeyboardButton(text="Source", url="http://t.me/salaar_op"),
         InlineKeyboardButton(text="Back", callback_data="HOME"),
     ],
 ]
