@@ -4,7 +4,7 @@
 
 > __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
 <p align="center">
-<img src='https://graph.org/file/4128631cce7fcb61a3c07.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://graph.org/file/479e6184460f84cb3aa8e.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
 </pre>
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
